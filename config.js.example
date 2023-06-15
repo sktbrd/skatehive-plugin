@@ -1,0 +1,10 @@
+// config.js
+
+module.exports = {
+    submissionUrl: 'https://thatsgnar.ly/routes/submissions?page=5&take=3&filter=new&period=all&scopeId=thatsgnarly', // this is an example of submission, replace for real api link
+     author: 'insert hiveusername here',
+    postingKey: 'insert posting key here',
+    footer: 'Posted from **ThatsGnarly**.', // Example of Markdown code for the footer
+    tags: ['thatsgnarly']
+  };
+  
