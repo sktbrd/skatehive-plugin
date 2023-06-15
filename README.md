@@ -6,7 +6,7 @@ Script that reads some API and post to Skatehive based on Thatsgnarly subsmissio
 
 [link ☝️](https://miro.com/app/board/uXjVM-zK1UA=/?share_link_id=143090395097) 
 
-
+[ThatsGnar.ly post](https://thatsgnar.ly/routes/submissions?page=6&take=3&filter=new&period=all&scopeId=thatsgnarly)  ->> [skatehive Post](https://peakd.com/thatsgnarly/@skatehacker/dino-dan-arino)
 
 1. Rename config.js.example to config.js
 
