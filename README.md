@@ -2,7 +2,7 @@
 
 Script that reads some API and post to Skatehive based on Thatsgnarly subsmission in skatehive Section 
 
-![image](https://github.com/sktbrd/skatehive-plugin/assets/116202536/9cc8a42f-0cff-493a-a955-a733d7da0e13)
+![image]([https://github.com/sktbrd/skatehive-plugin/assets/116202536/9cc8a42f-0cff-493a-a955-a733d7da0e13](https://i.ibb.co/J3Xk0rZ/image.png))
 
 [link ☝️](https://miro.com/app/board/uXjVM-zK1UA=/?share_link_id=143090395097) 
 
